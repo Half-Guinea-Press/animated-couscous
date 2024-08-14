@@ -1,18 +1,20 @@
 {
 	"mechanics":{
-		"race":{
-		},
-		"class":{
-		},
-		"background":{
-		},
-		"feat":{
-		},
-		"spell":{
-		},
-		"equipment":{
-		},
-		"features":{
+		"character":{
+			"race":{
+			},
+			"class":{
+			},
+			"background":{
+			},
+			"feat":{
+			},
+			"spell":{
+			},
+			"equipment":{
+			},
+			"features":{
+			}
 		}
 	},
 	"campaign":{
